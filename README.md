@@ -1,7 +1,7 @@
 Nevada-Population-Density
 
 HTML
-CSS
+inline-CSS
 JavaScript
 topoJSON
 d3.js
